@@ -1,4 +1,7 @@
 def speak_to_grandma(phrase)
+  if phrase==phrase.uppercase
+    puts "NO, NOT SINCE 1938"
+    
 end
 
 # Whatever you say to grandma, she should respond with
